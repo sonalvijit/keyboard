@@ -91,3 +91,11 @@
      color: #ffffff;
      font-weight: 800;
 }
+
+/* Press effect */
+
+.key.active {
+  background-color: yellow;
+  color: black;
+  transform: scale(1.1);
+}
