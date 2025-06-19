@@ -94,8 +94,11 @@
 
 /* Press effect */
 
+.key{
+     /* transition: all ease-in 0.1s; */
+}
+
 .key.active {
-  background-color: yellow;
+  background-color: rgb(53, 255, 161);
   color: black;
-  transform: scale(1.1);
 }
