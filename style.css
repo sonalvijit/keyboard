@@ -44,10 +44,21 @@
      font-weight: 800;
 }
 
+.onex11{
+     width: 90px;
+     height: 60px;
+     border-radius: 5px;
+     display: flex;
+     background-color: rgb(87, 87, 87);
+     justify-content: center;
+     align-items: center;
+     font-weight: 800;
+}
+
 .onex2{
      width: 110px;
      height: 60px;
-     background-color: aqua;
+     background-color: rgb(151, 151, 151);;
      border-radius: 5px;
      display: flex;
      justify-content: center;
@@ -59,7 +70,19 @@
 .onex22{
      width: 140px;
      height: 60px;
-     background-color: aqua;
+     background-color: rgb(151, 151, 151);;
+     border-radius: 5px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: #000;
+     font-weight: 800;
+}
+
+.onex222{
+     width: 130px;
+     height: 60px;
+     background-color: rgb(151, 151, 151);;
      border-radius: 5px;
      display: flex;
      justify-content: center;
@@ -71,7 +94,7 @@
 .onex3{
      width: 150px;
      height: 60px;
-     background-color: aquamarine;
+     background-color: rgb(151, 151, 151);;
      border-radius: 5px;
      display: flex;
      justify-content: center;
