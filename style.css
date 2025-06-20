@@ -83,7 +83,7 @@
 .spacebar{
      width: 530px;
      height: 60px;
-     background-color: blueviolet;
+     background-color: rgb(151, 151, 151);
      border-radius: 5px;
      display: flex;
      justify-content: center;
@@ -95,7 +95,7 @@
 /* Press effect */
 
 .key{
-     /* transition: all ease-in 0.1s; */
+     transition: all ease-in 0.1s;
 }
 
 .key.active {
